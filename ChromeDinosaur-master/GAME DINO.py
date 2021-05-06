@@ -95,7 +95,7 @@ class Dinosaurus:
     def draw(self, LAYAR):
         LAYAR.blit(self.gambar, (self.kotak_dino.x, self.kotak_dino.y))
 
-
+#asdsasd
 def main():
     lari = True
     waktu = pygame.time.Clock()
